@@ -2,6 +2,6 @@
 
 * [Time complexity and Space complexity](README.md)
 
-## 1. Array
+## 🍏 ARRAY
 
-* [88. Merge two order array](1.-array/88.-merge-two-order-array.md)
+* [Merge two order Arrays](array/merge-two-order-arrays.md)
